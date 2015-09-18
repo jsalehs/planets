@@ -1,5 +1,11 @@
+
+We remove the conflict on this line
 Cold and dusty. Very red. Alien planet. Also dry.
 The two moons are weird and irregular and might be a problem for Wolfman.
 But the Mummy will appreciate the lack of humidity. And the sand.
+<<<<<<< HEAD
 
 This was added by developr B
+=======
+I added this! # Jaffar
+>>>>>>> 64eb4893731f852d6f8144f460ecd93cd73ca7ac
